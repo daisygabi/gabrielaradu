@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 -->
 
-![Visitor Count](https://profile-counter.glitch.megabrielaradu/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/gabrielaradu/count.svg)
 
