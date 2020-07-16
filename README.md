@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: 
 -->
-```
+
 ![Visitor Count](https://profile-counter.glitch.megabrielaradu/count.svg)
-```
+
